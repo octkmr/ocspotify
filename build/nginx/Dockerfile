@@ -1,1 +1,1 @@
-FROM php:8.1-fpm-buster
+FROM nginx:1.20-alpine
